@@ -2,6 +2,24 @@
 
 This is under heavy development currently.
 
+## Getting Started
+Clone the SDK repository:  
+`git clone https://github.com/flyandi/mazda-custom-application-sdk`
+
+Then, build the SDK from the SDK directory:  
+```
+npm install
+npm run build-install
+```
+
+To run the simulator, clone this repository after setting up the SDK and run:  
+```
+npm install
+npm run simulator
+```
+
+Set the runtime SDK location to `<SDK_base_directory>/build/system`.
+
 ## Discussion
 
 The official discussion thread is on Mazda3Revolution:
