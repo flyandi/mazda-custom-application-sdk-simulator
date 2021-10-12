@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "del": "~2.2.0",
-    "electron": "^1.8.4",
+    "electron": "^11.5.0",
     "electron-builder": "^2.7.2",
     "electron-packager": "^5.2.1",
     "electron-prebuilt": "^0.36.7",
